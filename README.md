@@ -1,7 +1,7 @@
 # EFI_MSI_B250i_i5_7500_RX5600_BigSur
  MSI_B250i_i5_7500_RX5600_BigSur
 
-##**Set up:**
+## **Set up:**
    
    -Processor: Intel Core i5-7500 @ 3.40GHz quad-core
    -Motherboard: MSI B250I GAMING PRO AC (MS-7A67) (B250 chipset)
@@ -12,7 +12,7 @@
    -Network card: Realtek RTL8168/8111/8112 Gigabit Ethernet Controller / MSI
    
    
-##**What's not working: (2020.12.15)**
+## **What's not working: (2020.12.15)**
    
    -Airdrop
    -Bluetooth
