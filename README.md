@@ -16,6 +16,7 @@
    
    -Airdrop  
    -Bluetooth  
-   -USB fix >(not done, i didn't creat my custom SSDT to fix my USB port, but it still can be used)  
+   -USB fix   
+   >(not done, i didn't creat my custom SSDT to fix my USB port, but it still can be used)  
    
 >For CPU AIO Cooler control i recommand [liquidctl](https://github.com/jonasmalacofilho/liquidctl), it works good on my CORSAIR Hydro Series H100i v2.
