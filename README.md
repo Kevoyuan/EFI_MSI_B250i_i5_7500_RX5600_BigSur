@@ -1,4 +1,4 @@
-# EFI_MSI_B250i_i5_7500_RX5600_BigSur
+# EFI_MSI_B250i_i5_7500_RX5600_BigSur_OC
  MSI_B250i_i5_7500_RX5600_BigSur
 
 ## **Set up:**
