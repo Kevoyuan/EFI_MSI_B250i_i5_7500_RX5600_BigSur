@@ -3,7 +3,7 @@
 
 Set up:
    
-   Processorl: Intel Core i5-7500 @ 3.40GHz quad-core
+   Processor: Intel Core i5-7500 @ 3.40GHz quad-core
    
    Motherboard: MSI B250I GAMING PRO AC (MS-7A67) (B250 chipset)
    
