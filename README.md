@@ -12,7 +12,7 @@
    -Network card: Realtek RTL8168/8111/8112 Gigabit Ethernet Controller / MSI  
    
    
-## **What's not working: **
+## **What's not working:**
    
    -Airdrop  
    -Bluetooth  
