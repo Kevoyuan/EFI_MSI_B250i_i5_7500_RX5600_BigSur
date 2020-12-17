@@ -16,6 +16,7 @@
    
    -Airdrop  
    -Bluetooth  
+   -Sidecar
    
 >For CPU AIO Cooler control i recommand [liquidctl](https://github.com/jonasmalacofilho/liquidctl), it works good on my CORSAIR Hydro Series H100i v2.
 
